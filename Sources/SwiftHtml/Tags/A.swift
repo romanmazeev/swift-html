@@ -48,6 +48,7 @@ public extension A {
         case search
         /// A tag (keyword) for the current document
         case tag
+        case me
     }
     
     /// Specifies that the target will be downloaded when a user clicks on the hyperlink
